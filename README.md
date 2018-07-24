@@ -1,0 +1,2 @@
+# frontend
+Crypto Hands frontend
